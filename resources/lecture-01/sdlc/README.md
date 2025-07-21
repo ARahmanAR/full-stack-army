@@ -6,4 +6,4 @@
 
 ### Agile Model (Use when requirements change frequently)
 
-![Agile](https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-agile-model.png)
+![Agile](/resources/lecture-01/sdlc/img/agile.png)
